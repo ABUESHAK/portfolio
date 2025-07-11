@@ -46,7 +46,7 @@ body{
    background-repeat: no-repeat;
    background-position: top 30px left 20px, right bottom;
    padding-top: 50px;
-   padding-bottom: 30px;
+   /* padding-bottom: 30px; */
 }
 
 
@@ -224,3 +224,77 @@ margin-bottom: 20px;
    text-align: center;
    margin-top: 50px;
 }
+
+footer{
+   display: flex;
+   padding: 130px 230px;
+   gap: 115px;
+}
+.footer-column{
+   width: 50%;
+}
+footer input[type="text"], input[type="email"]{
+   height: 40px;
+   width: 440px;
+   background-color: white;
+   border: none;
+   border-radius: 5px;
+   padding: 10px;
+   margin-bottom: 10px;
+}
+
+footer input[type="textarea"]{
+
+   padding: 10px;
+   border: none;
+}
+
+.stars{
+   font-size: 30px;
+   color: gold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
